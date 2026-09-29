@@ -1,0 +1,6 @@
+{
+  "name": "Bank Account Management System",
+  "description": "2nd-Year B.Tech Java Swing desktop application with JDBC and MySQL database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
